@@ -1,3 +1,4 @@
-### SM-A022F_SEA_RR_Opensource
+# SM-A022F_SEA_RR_Opensource
 ## SAMSUNG
-# A02
+### GALAXY
+#### A02
